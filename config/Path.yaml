@@ -1,0 +1,5 @@
+%YAML:1.0
+---
+video: "/home/csy/Desktop/Videos/blue.avi"
+output: "/home/axi/Videos/"
+num: 11

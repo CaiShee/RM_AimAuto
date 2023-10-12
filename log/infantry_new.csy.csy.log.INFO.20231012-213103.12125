@@ -1,0 +1,4 @@
+Log file created at: 2023/10/12 21:31:03
+Running on machine: csy
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1012 21:31:03.828562 12125 globalParamInit.cpp:117] initGlobalParam Successful
